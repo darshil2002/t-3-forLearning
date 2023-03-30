@@ -18,6 +18,9 @@
     "@angular/platform-browser": "^15.1.0",
     "@angular/platform-browser-dynamic": "^15.1.0",
     "@angular/router": "^15.1.0",
+    "@syncfusion/ej2-angular-grids": "^21.1.35",
+    "@syncfusion/ej2-material-theme": "~21.1.35",
+    "formdata-polyfill": "^4.0.10",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.12.0"
